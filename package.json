@@ -1,0 +1,38 @@
+{
+  "name": "boiler plate truffle project",
+  "version": "1.0.0",
+  "description": "This is a boilerplate version of truffle for new projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "axios": "^0.24.0",
+    "console.table": "^0.10.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "infura-web3-provider": "^0.0.3",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "numeral": "^2.0.6",
+    "request": "^2.88.2",
+    "truffle-hdwallet-provider-privkey": "^0.3.0",
+    "web3": "^1.6.1"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
