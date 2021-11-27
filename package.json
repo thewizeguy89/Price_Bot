@@ -1,7 +1,7 @@
 {
-  "name": "boiler plate truffle project",
+  "name": "Price_Bot",
   "version": "1.0.0",
-  "description": "This is a boilerplate version of truffle for new projects",
+  "description": "This is a Price Discovery Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
